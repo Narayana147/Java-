@@ -10,5 +10,6 @@ public class Encaps {
     int a=en.area=40;
 
     en.examp(l,w,a);
+    //ok 
     }
 }
